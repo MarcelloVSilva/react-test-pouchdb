@@ -1,0 +1,11 @@
+{
+  "couchdb": {
+    "uuid": "6c6a612b-6991-44a4-b1e3-32442683d9d8"
+  },
+  "admins": {
+    "admin": "-pbkdf2-74012711c22ee0ba3ff4f371032edf535e5a5ea7,1fa1401f51481d31e21cb1d218d1991381dc1c51391c51ea,10"
+  },
+  "httpd": {
+    "bind_address": "0.0.0.0"
+  }
+}
