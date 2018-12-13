@@ -40,8 +40,6 @@ export default App;
 
 var opts = { live: true }
 function sync() {
-  setInterval(() => {
     db.sync(remote, opts)
     PouchDB.replicate(remote, remoteMatheus, opts)
-  }, 100)
 }
