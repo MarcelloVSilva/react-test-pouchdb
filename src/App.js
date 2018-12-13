@@ -43,5 +43,5 @@ function sync() {
   setInterval(() => {
     db.sync(remote, opts)
     PouchDB.replicate(remote, remoteMatheus, opts)
-  }, 5000)
+  }, 100)
 }

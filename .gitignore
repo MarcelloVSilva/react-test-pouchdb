@@ -23,4 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 
-./log.txt
+log.txt
+/_replicator
+/_users
+/pouch__all_dbs__
+/todos
